@@ -3,7 +3,7 @@
 Ссылка на проект @Eat_Smart5_Bot
 
 Скриншоты
-https://github.com/Alyaevaelena/AI-Assistant/blob/main/photo_2025-07-30_16-00-50.jpg?raw=true
+![Иллюстрация к проекту](https://github.com/Alyaevaelena/AI-Assistant/blob/main/photo_2025-07-30_16-00-50.jpg) 
 
 ## Описание проекта
 
